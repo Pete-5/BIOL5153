@@ -1,0 +1,107 @@
+---
+title: "Cirriculum Vitae"
+author: "**Peter Hasik**"
+date: "**pbhasik@email.uark.edu**"
+output: word_document
+---
+
+### **Education**  
+
+* Arkansas State University, Jonesboro, Arkansas 2011-2015
+    + B.S. in Biological Sciences, Wildlife Management & Ecology: 3.28 GPA  
+* University of Arkansas, Fayetteville, Arkansas 2018-2019
+    + M.S. in Biological Sceinces, Biology 4.0 GPA  
+  
+### **Awards & Honors**
+
+* Outstanding Graduating Senior Class of 2015
+* Arkansas Game & Fish Conservation Scholarship 2012-2014 **$1,000**
+* Arkansas State University Pride Scholarship 2011-2015 **$3,000**
+* Arkansas State Lottery Scholarhsip **$4,500**
+* Chancellor's List Spring 2012, Fall 2012, Spring 2013
+
+### **Teaching** 
+
+* Teaching Assistant: Human Anatomy
+    + Taught 2 labs of 20+ undergraduate students the basic principles of human anatomy 
+    + Assembled and graded practical exams on dissection specimens
+    + Provided guidance on dissection, identification, and comparative anatomy of muscles, bones, and other anatomical features found in various small mammal specimens
+
+* Teaching Assitant: Principles of Biology for Non-Majors
+    + Taught 3 labs of 20+ undergraduate students the genral concepts of Biology 
+    + Aided in the preparation of labratory specimens, equipment, and restocking inventory
+    + Prepared and graded exams for 20+ students per lab
+
+### **Outreach**
+
+* Animal Science Day: Halloween Trick or Treat "Mad Scientist" Booth
+    + Helped run a Trick or Treat booth with the Biology Graduate Student Association where we introduced over 800 children to various biological topics through educational games and activities with a candy or toy reward for participating 
+    
+### **Research Experience**
+
+**Utah State Univerity**
+
+*Eureka/Benmore/Vernon, UT*
+
+*April 2017-August 2017*
+
+Conducted Greater Sage-grouse lek surveys, tracking radio-collared birds, trapped and radio-collared birds, assisted with translocations, vegetation surveys, mammalian surveys, corvid/raptor surveys, and data entry in the Sheeprock Sage-grouse Management Area located in Utah's West Desert with access to BLM, USFS, and private land.
+
+* Used VHF and UHF telemetry to track captured birds
+* Conducted vegetation surveys using Daubenmire square & Robel poles
+* Performed lek counts using Utah Department of Wildlife Resources protocol
+* Captured GRSG by night lighting on an ATV using a large dip net
+* Sexed, aged, weighed, banded, and fitted a radio collar or GPS backpack on the GRSG and loaded the data into a tablet program
+* Searched for nests using VHF/GPS triangulation and binocualrs
+* Surveyed broods on a weekly basis 
+* Managed 30 predator surveys per week
+* Conducted point count and scat surveys for avain and mammalian predators 
+* Interacted with the public and landowners on the properties at three different study sites and addressed any question they might have about the project
+
+**Arkansas State University**
+
+*Jonesboro, AR, Memphis, TN, Southeast Missouri*
+
+Assisted in the pilot study & field season of "Hybridization and Range Expansion of Scissor-tailed Flycatchers and Western Kingbirds". Worked with graduate student Alexander Worm and Professor Dr. Than Boves in the field characterizing the habitat of the two species, mapping out species' ranges, and conducted nest surveys.
+
+* Conducted point counts using existing data to determine populated areas and nest sites
+* Monitored nests and inhabitants multiple times each week
+* Characterized habitat at each nest site
+* Mapped out population range of Scissor-tailed Flycatcher and Western Kingbirds within the Arkansas, Missouri, and Tennessee borders 
+
+### **Extra Curricular**
+
+President- Lambda Chi Alpha International Fraternity Iota-Theta-Zeta Chapter (2014-2015)
+
+Member- Arkansas State University Wildlife Society (2014-2015)
+
+Member- University of Arkansas Biology Graduate Student Association (2018-2019) 
+
+Member- University of Arkansas Wildlife Society (2018-2019)
+
+Graduate Student Representative- University of Arkansas Planning Committee (2019) 
+
+### **Other Relevant Experience**
+
+* Mist netting avian and mammalian species
+* Small mammal trapping and handling 
+* Construction of management plan & IACUC
+* ARC GIS education
+* Extensive experience driving, loading, and unloading ATV's into truck neds and trailers
+* Collecting and mounting herbarium specimens 
+* Aerial and terrestrial radio telemetry 
+
+### **Research Interests**
+
+* Aquatic and terrestrial ecology
+* Species documentation
+* Avian ecology and biology
+* Climate change effects
+
+### **References**
+
+**Dr. Jeremy Beaulieu**, Assistant Professor, Department of Biological Sciences, University of Arkansas, Science and Engineering, Room 601, Fayetteville,AR, 72701, jmbeauli@uark.edu
+
+**Dr. Than Boves**, Associate Professor of Ecology, Department of Biological Sciences, Arkansas State University, Lab Science East Room 202, State University 72467, tboves@astate.edu
+
+**Dr. Travis Marsico**, Associate Professor of Botany, Interim Chir of Biological Sciences, Department of Biological Sciences, Arkansas State University, Lab Science East Room 202, State University 72467, tmarsico@astate.edu
