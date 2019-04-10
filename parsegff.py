@@ -53,3 +53,10 @@ for line in gff:
     print(get_gc_content(output))
     
 gff.close()
+
+## Reading in the fasta file for BioPython ##
+from Bio import SeqIO
+for seq_record in SeqIO.parse("watermelon.fsa", "fasta"):
+    print(seq_record.id)
+    print(repr(seq_record.seq))
+    print(len(seq_record))
